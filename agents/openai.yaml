@@ -1,0 +1,6 @@
+interface:
+  display_name: "No-Bullshit Feminist Test"
+  short_description: "女性主义审稿：尊重女性主体性，依据具体文本判断，提供修改建议"
+  default_prompt: "请使用 $no-bullshit-feminist-test 审查我提供的作品，说明适用情况、具体依据和修改建议。"
+policy:
+  allow_implicit_invocation: false
